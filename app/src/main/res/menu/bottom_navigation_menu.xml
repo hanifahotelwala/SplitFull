@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="">
+    </item>
+
+    <item
+        android:id="@+id/ic_workoutsplit"
+        android:icon="@drawable/ic_workoutsplit"
+        android:title="">
+    </item>
+
+    <item
+        android:id="@+id/ic_timer"
+        android:icon="@drawable/ic_timer"
+        android:title="">
+    </item>
+    <item
+        android:id="@+id/ic_camera"
+        android:icon="@drawable/ic_camera"
+        android:title="">
+    </item>
+
+    <item
+        android:id="@+id/ic_notes"
+        android:icon="@drawable/ic_notes"
+        android:title="">
+    </item>
+</menu>

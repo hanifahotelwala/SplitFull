@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akronim</item>
+        <item>@font/aladin</item>
+        <item>@font/dancing_script</item>
+        <item>@font/elsie_swash_caps</item>
+        <item>@font/give_you_glory</item>
+        <item>@font/walter_turncoat</item>
+    </array>
+</resources>
